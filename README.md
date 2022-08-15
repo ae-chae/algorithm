@@ -1,2 +1,2 @@
-# algorithm-phython
+# algorithm-python
 # git-test
