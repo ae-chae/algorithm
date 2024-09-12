@@ -1,0 +1,9 @@
+def solution(strArr):
+    answer = []
+    for i in range(0, len(strArr), 2):
+        strArr[i] = strArr[i].lower()
+    for i in range(1, len(strArr), 2):
+        strArr[i] = strArr[i].upper()
+        
+    answer = strArr
+    return answer
